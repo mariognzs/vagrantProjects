@@ -69,3 +69,9 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas en tu
 ## Personalización
 
 Puedes personalizar la configuración de las máquinas virtuales editando los `Vagrantfile` en los subdirectorios correspondientes. Consulta la [documentación oficial de Vagrant](https://www.vagrantup.com/docs) para más detalles sobre las opciones de configuración disponibles.
+
+## Autor
+
+Mario González Solas
+- [Mi LinkedIn](https://www.linkedin.com/in/mario-gonz%C3%A1lez-solas/)
+
