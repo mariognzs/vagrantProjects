@@ -1,0 +1,24 @@
+# Ignore Vagrant specific files
+.vagrant/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# Ignore system specific files
+.DS_Store
+Thumbs.db
+
+# Ignore provisioning specific files
+*.retry
+
+# Ignore SSH keys
+*.pem
+*.pub
+
+
