@@ -1,4 +1,3 @@
-```markdown
 # Vagrant Projects
 
 Este repositorio contiene archivos y scripts para la configuración y gestión de múltiples entornos de máquinas virtuales utilizando Vagrant.
